@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThelevationApplication</string>
+    <string name="title_activity_maps">Thelevation</string>
+    <string name="title_activity_search_place">SearchPlaceActivity</string>
+</resources>
